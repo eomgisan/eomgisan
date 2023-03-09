@@ -17,11 +17,11 @@ eomgisan@naver.com
 ###### 💡 main stack 💡
 
 <img src="https://img.shields.io/badge/C++-blueviolet?style=for-the-badge&logo=cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white">  
- <img src="https://img.shields.io/badge/UE-black?style=flat-square&logo=UnrealEngine&logoColor=white"/>
+
 
 ###### 📖 studying 📖
 
-<img src="https://img.shields.io/badge/DirectX12-orange?style=flat-square&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/openGL-red?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/DirectX12-orange?style=flat-square&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/openGL-red?style=flat-square&logo=&logoColor=white"/>  <img src="https://img.shields.io/badge/WinApi-orange?style=flat-square&logo=Windows&logoColor=white"/>  <img src="https://img.shields.io/badge/UE-black?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 
 
 ###### ☝ used a least once ☝
