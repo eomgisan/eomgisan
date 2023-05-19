@@ -34,7 +34,7 @@ eomgisan@naver.com
 
 #### Hi there 👋 I'm aiming to be a computer client developer through UE.
 #### I'm studying directX12 and trying to understand the UE structure.
-#### My Study notes are here  👉  <a href="https://buttercup-enthusiasm-95e.notion.site/89097266c0f649a2a9365cb64b4408ae?v=21fa1a2fab0f4a18812dff9259579a14" target="_blank"><img src="https://img.shields.io/badge/notion-9cf?style=flat-square&logo=notion&logoColor=black"/></a>
+#### My Study notes are here  👉  <a href="https://eogisan.notion.site/89097266c0f649a2a9365cb64b4408ae?v=21fa1a2fab0f4a18812dff9259579a14" target="_blank"><img src="https://img.shields.io/badge/notion-9cf?style=flat-square&logo=notion&logoColor=black"/></a>
 
 
 ![eomgisan's github stats](https://github-readme-stats.vercel.app/api?username=eomgisan&show_icons=true)
