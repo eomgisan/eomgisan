@@ -9,7 +9,7 @@
 
 #### 📧 Email 📧
 
-pzgisan@gamil.com
+pzgisan@gmail.com
  
 eomgisan@naver.com
 
